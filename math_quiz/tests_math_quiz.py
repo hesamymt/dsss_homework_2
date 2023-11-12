@@ -1,5 +1,5 @@
 import unittest
-from math_quiz import randomNumberLimit, randomOperator, calculateFunc
+from math_quiz.math_quiz import randomNumberLimit, randomOperator, calculateFunc
 
 
 class TestMathGame(unittest.TestCase):
